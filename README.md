@@ -1,2 +1,2 @@
 # Quote-Generator
-JavaScript Projects 2/15
+Project 2 of 15 days , 15 JS projects
